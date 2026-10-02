@@ -1,0 +1,21 @@
+{
+  "customer_id": "NT-000001",
+  "age": 34,
+  "tenure_months": 24,
+  "monthly_fee": 89.90,
+  "total_spent": 2157.60,
+  "support_calls": 2,
+  "complaints": 0,
+  "last_payment_delay": 3,
+  "digital_usage_score": 80.4,
+  "marketing_score": 60.0,
+  "preferred_contact_hour": 18,
+  "gender": "Femenino",
+  "region": "Lima",
+  "customer_segment": "Masivo",
+  "contract_type": "Anual",
+  "internet_service": "Fibra",
+  "tv_service": "Sí",
+  "streaming_service": "Sí",
+  "payment_method": "Tarjeta"
+}
